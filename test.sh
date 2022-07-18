@@ -1,0 +1,1 @@
+ls app/*.hs | entr cabal test
